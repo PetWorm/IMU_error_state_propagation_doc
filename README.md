@@ -1,0 +1,2 @@
+# IMU_error_state_propagation_doc
+采用Hamilton四元数的低成本IMU误差方程详细推导
